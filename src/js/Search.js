@@ -38,7 +38,7 @@ class Search extends React.Component {
     getMovies = async() => {
         const {location} = this.props;
         const search = location.state.search;
-        const url = "/v1/search/movie.json";
+        const url = "/api/v1/search/movie.json";
         const id = "Tbe5UQm8vgGeeQwbfj_L";
         const secret = "5lb5XYyNV1";
         const {

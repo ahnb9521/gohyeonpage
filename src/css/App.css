@@ -16,3 +16,11 @@
     padding-left: 20px;
     font-size: 1em;
 }
+
+.movie-img {
+    line-height:158px;
+}
+
+.img {
+    vertical-align: midd;
+}
